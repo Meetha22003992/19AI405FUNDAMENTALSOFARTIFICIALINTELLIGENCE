@@ -69,9 +69,7 @@ G F <BR>
 F H <BR>
 <hr>
 <h3>Sample Output</h3>
-<hr>
-![image](https://github.com/Meetha22003992/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/119401038/820cba9a-bf99-4e32-aeb7-6973f2166cfe)
-</hr>
+![image](https://github.com/Meetha22003992/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/119401038/52d9fdbb-8866-4235-9110-38f625122e46)
 <h3>Result:</h3>
 <hr>
 <p>Thus,a Graph was constructed and implementation of Depth First Search for the same graph was done successfully.</p>
