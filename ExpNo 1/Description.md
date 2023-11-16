@@ -55,7 +55,7 @@ Now, the Stack becomes empty, which means we have visited all the nodes, and our
 </ol></B>
 
 <hr>
-<h3>Sample Input</h3>
+<h3>Input</h3>
 <hr>
 8 9 <BR>
 A B <BR>
@@ -70,25 +70,8 @@ F H <BR>
 <hr>
 <h3>Sample Output</h3>
 <hr>
-['A', 'B', 'E', 'D', 'C', 'G', 'F', 'H']
-
-<hr>
-
-<hr>
-<h3>Sample Input</h3>
-<hr>
-5 5 <BR>
-0 1 <BR>
-0 2 <BR>
-0 3 <BR>
-2 3 <BR>
-2 4 <BR>
-<hr>
-<h3>Sample Output</h3>
-<hr>
-['0', '1', '2', '3', '4']
-
-<hr>
+![image](https://github.com/Meetha22003992/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/119401038/820cba9a-bf99-4e32-aeb7-6973f2166cfe)
+</hr>
 <h3>Result:</h3>
 <hr>
 <p>Thus,a Graph was constructed and implementation of Depth First Search for the same graph was done successfully.</p>
