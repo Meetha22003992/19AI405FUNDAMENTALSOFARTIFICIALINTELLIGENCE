@@ -79,7 +79,7 @@ Now, Queue becomes empty, So, terminate these process of iteration.
 3 4 <BR>
 <hr>
 <h3>Output</h3>
-<hr>
+
 ![image](https://github.com/Meetha22003992/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/119401038/5cc0ed12-7230-4c74-8f1c-2f5608019455)
 
 <h3>Result:</h3>
