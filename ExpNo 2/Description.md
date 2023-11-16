@@ -80,9 +80,7 @@ Now, Queue becomes empty, So, terminate these process of iteration.
 <hr>
 <h3>Output</h3>
 <hr>
-![image](https://github.com/Meetha22003992/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/119401038/816e7ae0-9596-4ec3-887e-12700b1c64d6)
-
-<hr>
+![image](https://github.com/Meetha22003992/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/119401038/c0379f34-842b-4dec-99e9-9ae89b44f66b)
 <h3>Result:</h3>
 <hr>
 <p>Thus,a Graph was constructed and implementation of Breadth First Search for the same graph was done successfully.</p>
