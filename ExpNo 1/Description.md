@@ -68,7 +68,7 @@ D F <BR>
 G F <BR>
 F H <BR>
 <hr>
-<h3>Sample Output</h3>
+<h3>Output</h3>
 
 ![image](https://github.com/Meetha22003992/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/119401038/52d9fdbb-8866-4235-9110-38f625122e46)
 <h3>Result:</h3>
